@@ -6,6 +6,21 @@ best practice for the webpack optimization config.
 I wrote a config to include most of the tools google mentioned in there.Feel
 free to PR to make this config better.
 
+##### This repo is a demo for the config.
+
+### How to run this porject:
+
+```
+npm install
+npm run watch
+npm run start // open the webpack-dev-server
+
+
+```
+
+
+### webpack.config.js content:
+
 ```
 module.exports = {
   entry: {
